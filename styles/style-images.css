@@ -8,7 +8,7 @@
   font-size: min(calc(1em + 1vw), 4em);
 }
 
-/* VARIABELES VAN KLEUREN */
+  /* VARIABELES VAN KLEUREN */
 html {
   --white: #ffffff;
   --dark-blue: #090940;
@@ -19,6 +19,7 @@ html {
 }
 
 body {
+  width: 100%;
   min-height: 100vh;
   overflow-x: hidden;
 
@@ -99,6 +100,9 @@ nav a.active {
 nav a:hover:not(.active) {
   background-color: var(--dark-blue);
   color: var(--white);
+  transition: 0.3s ease-in;
+  background-position: right center;
+  transform: scale(1.05);
 }
 
 section {
