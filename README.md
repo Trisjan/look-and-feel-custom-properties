@@ -2,8 +2,8 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
-
+# Custom properties
+In deze deeltaak heb ik mijn css file redesigned om het netter en beter onderhoudbaar te maken.
 
 ## Licentie
 
